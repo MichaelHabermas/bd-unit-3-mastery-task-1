@@ -1,0 +1,21 @@
+{
+  "actionRequested": "find",
+  "customerId": "00001",
+  "payload": ""
+}
+
+{
+  "actionRequested": "add",
+  "payload": "Harry Potter,4 Privet Drive,Little Whinging,Surrey" 
+}
+
+{
+    "actionRequested": "add",
+    "payload": "Baker Mayfield" 
+}
+
+{
+    "actionRequested": "chgname",
+    "customerId": "00001",
+    "payload": "Your Name Here"
+}
